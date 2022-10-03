@@ -1,0 +1,60 @@
+.bigcube {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    width: 500px;
+    height: 500px;
+    background-color: green;
+    border: 20px solid orange;
+}
+
+.red {
+    width: 250px;
+    height: 250px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.yellow {
+    display: flex;
+    width: 250px;
+    height: 250px;
+    background-color: yellow;
+    align-items: center;
+    justify-content: center;
+}
+
+.aqua {
+    display: flex;
+    width: 250px;
+    height: 250px;
+    background-color: aqua;
+    align-items: center;
+    justify-content: center;
+}
+
+.purple {
+    display: flex;
+    width: 250px;
+    height: 250px;
+    background-color: purple;
+    align-items: center;
+    justify-content: center;
+}
+
+.circle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
